@@ -2,7 +2,7 @@
 
 A full-stack web app to track job applications — company, role, status, and notes — with a dashboard that visualizes your pipeline at a glance.
 
-**Live demo:** _add your deployed link here_
+**Live demo:** https://job-tracker-one-taupe.vercel.app
 
 ## Features
 
